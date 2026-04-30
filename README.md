@@ -72,7 +72,7 @@ Built dashboards tracking IT performance across multiple datasets. Gathered requ
 ## Currently
 
 - 📚 Finishing my B.S. in Information Systems at VCU (May 2026)
-- 🔍 Actively looking for business analyst & data analyst roles in Richmond, VA
+- 🔍 Actively looking for business analyst & data analyst roles in Richmond, VA, and Northern Virginia
 - 📊 Building out this portfolio with documented, reproducible projects
 
 ---
