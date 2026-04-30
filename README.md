@@ -1,22 +1,80 @@
-## Hi, I'm Natalia ✨   
-ℹ️  Information Systems student at Virginia Commonwealth University  
-📊 Focused on data analytics, systems analysis, and applied AI  
-✅ Interested in architecture, process improvement, and decision support  
-👷🏽‍♀️ Building practical, data-driven solutions through hands-on projects
+# Natalia Flores
 
+**Data & Business Analyst** · Richmond, VA · [LinkedIn →](https://linkedin.com/in/nflores05)
 
+> I turn messy data into decisions that actually matter.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nflores05) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=floresn5623&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=floresn5623&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=floresn5623&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently finishing a B.S. in Information Systems at Virginia Commonwealth University. I work at the intersection of analytics and business strategy — building dashboards, uncovering patterns, and translating numbers into narratives that move teams forward.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=floresn5623&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Do
+
+```
+Data Analysis        ████████████░░  Tableau · Power BI · Excel · KNIME
+Programming          ████████░░░░░░  Python (Pandas) · SQL
+Business Analysis    ████████████░░  Requirements Gathering · Process Improvement
+Communication        █████████████░  Stakeholder Reporting · Data Storytelling
+```
+
+---
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Vendor Risk & Procurement Dashboard
+`KNIME` `Tableau`
+
+Cleaned procurement data and built a Pareto dashboard that surfaced a hidden concentration risk — a small cluster of vendors accounting for the bulk of spend. Went from raw data to boardroom-ready insight.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Manufacturing Performance Analytics
+`Tableau` `Time Series`
+
+Built KPI dashboards on high-frequency manufacturing data. Applied exponential smoothing for forecasting — shifting operations teams from reactive firefighting to forward-looking planning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 Business Strategy — Fillingame Homestead
+`Market Research` `Consulting`
+
+Real client. Real stakes. Conducted market research and delivered a full expansion strategy — from raw findings to actionable recommendations. The full arc of consulting in one project.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Training Oversight System
+`Protégé` `Ontology Modeling`
+
+Analyzed federal budgeting workflows to identify inefficiencies. Built ontology models to map relationships across complex government systems and translated findings into structured stakeholder deliverables.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+**IT Data Dashboard Development Intern** · VCU Technology Services *(Summer 2025)*  
+Built dashboards tracking IT performance across multiple datasets. Gathered requirements from cross-functional teams, cleaned data in Tableau Prep, and presented insights to leadership that shaped operational decisions.
+
+---
+
+## Currently
+
+- 📚 Finishing my B.S. in Information Systems at VCU (May 2026)
+- 🔍 Actively looking for business analyst & data analyst roles in Richmond, VA
+- 📊 Building out this portfolio with documented, reproducible projects
+
+---
+
+*Open to opportunities · Let's connect on [LinkedIn](https://linkedin.com/in/nflores05)*
