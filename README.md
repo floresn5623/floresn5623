@@ -1,6 +1,6 @@
 # Natalia Flores
 
-**Data & Business Analyst** · Richmond, VA · [LinkedIn →](https://linkedin.com/in/nflores05)
+**Data & Business Analyst** · Fairfax, VA · Richmond, VA · [LinkedIn →](https://linkedin.com/in/nflores05)
 
 > I turn messy data into decisions that actually matter.
 
